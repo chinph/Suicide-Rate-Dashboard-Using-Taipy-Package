@@ -1,1 +1,1 @@
-# taipy_dashboard
+# Analysis of Suicide Rate with Taipy
