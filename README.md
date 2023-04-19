@@ -1,4 +1,5 @@
 # Analysis of Suicide Rate with Taipy 
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/chinph/Suicide-Rate-Dashboard-Using-Taipy-Package/blob/main/stylekit_dark%20(1).gif))
 Everyone is aware that suicide is not a good way to solve problems. But, the cruel reality is that millions of individuals attempt suicide every year, and many have been able to end their lives. I'll analyze the suicide situation globally in this dashboard to see how it has changed over the 35 years since 1985 in different nations.
 Data Overview & Questions
 
